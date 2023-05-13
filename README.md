@@ -1,5 +1,6 @@
 # 벨로퍼트와 함께하는 모던 자바스크립트
-https://learnjs.vlpt.us/
+https://learnjs.vlpt.us/   
+local : C:\local_home\study-exercise\javascript\festcampus-velopert
 ## 1장 - js입문
 
 1.0   
@@ -9,7 +10,8 @@ https://learnjs.vlpt.us/
 1.1   
 1.12 객체   
 {키: "키값"}   
+1.13 객체 - 비구조화 할당(구조분해)
 
 
 ## 2장 - 알고있으면 유용한 js문법
-2.6 비구조화 할당(구조분해)
+2.6 비구조화 할당
